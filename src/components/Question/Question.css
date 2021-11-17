@@ -1,0 +1,16 @@
+.question-container {
+    border-radius: 25px;
+    border: 1px solid lightgrey;
+    padding: 20px;
+    margin-top:24px;
+    background:white;
+}
+
+.question-slider {
+    margin-left: 48px;
+    margin-right: 48px;
+}
+
+.question-text {
+    margin-bottom: 24px;
+}

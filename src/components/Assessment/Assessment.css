@@ -1,0 +1,17 @@
+.assessment-container {
+    min-width: 600px;
+    max-width: 900px;
+    margin: 24px;
+}
+
+.submit-button{
+    float:right;
+}
+
+.buttons-container {
+    margin-top: 18px;
+}
+
+.category-sums{
+    margin-top: 72px;
+}
