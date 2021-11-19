@@ -11,12 +11,13 @@ import {
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path='/assessment' element={<Assessment/>} />
-        <Route path="/" element={<Home />} />
-      </Routes>
-    </Router>
+    <div>Hello world</div>
+    // <Router>
+    //   <Routes>
+    //     <Route path='/assessment' element={<Assessment/>} />
+    //     <Route path="/" element={<Home />} />
+    //   </Routes>
+    // </Router>
   );
 }
 
