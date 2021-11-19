@@ -8,7 +8,7 @@ function App() {
       <div className="home-center-elements">
         <h2>Counseling Theory Assessment</h2>
         <p>Learn your theoretical orientation</p>
-        <Button color="secondary" variant="contained" href="/assessment">Take the quiz</Button>
+        <Button color="secondary" variant="contained" href="/#/assessment">Take the quiz</Button>
       </div>
     </div>
   );

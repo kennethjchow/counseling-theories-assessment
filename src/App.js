@@ -6,18 +6,18 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
+  HashRouter,
 } from "react-router-dom";
 
 
 function App() {
   return (
-    <div>Hello world</div>
-    // <Router>
-    //   <Routes>
-    //     <Route path='/assessment' element={<Assessment/>} />
-    //     <Route path="/" element={<Home />} />
-    //   </Routes>
-    // </Router>
+    <HashRouter basename="/">
+      <Routes>
+        <Route path='/assessment' element={<Assessment/>} />
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </HashRouter>
   );
 }
 
