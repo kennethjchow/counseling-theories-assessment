@@ -43,7 +43,7 @@ const Question = (props) => {
   return (
     <Box sx={{ minWidth: 600 }} className="question-container" >
       <div className="question-text">
-        {props.id}. {props.text}
+        {props.id}. <b>{props.text}</b>
       </div>
       <Box className="question-slider">
         <Slider

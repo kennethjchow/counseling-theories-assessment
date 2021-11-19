@@ -45,7 +45,7 @@ export default function Assessment() {
     <div className="content">
       <div className="assessment-container" >
         <div>
-          This is an assessment to determine what kinda theory you align more with
+          This is an assessment to determine which counseling theory you align more with
         </div>
         <div>{QuestionList}</div>
         <div className="buttons-container">
