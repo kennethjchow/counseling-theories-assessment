@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/counseling-theories-assessment/precache-manifest.4b799627ae8e7e0c336555ecaa84e5a2.js"
+  "/counseling-theories-assessment/precache-manifest.66b187f8135e1fd6744d57bcce0f0ca3.js"
 );
 
 self.addEventListener('message', (event) => {
