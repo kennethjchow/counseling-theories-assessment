@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "336cc9bb66fbf88553d67d530c3863db",
+    "revision": "38f1d6654a873d6deacb4d1c2e6ac11e",
     "url": "/counseling-theories-assessment/index.html"
   },
   {
