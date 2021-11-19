@@ -19,7 +19,7 @@ const Results = (props) => {
       divRef.current.scrollIntoView({ behavior: 'smooth' });
       setFirstLoad(false);
     }
-  });
+  }, [isFirstLoad]);
 
 
   return (<div ref={divRef}>
