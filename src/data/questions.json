@@ -2,376 +2,376 @@
     {
         "id": 1,
         "text": "Transference is valuable in therapy because it provides clients with the opportunity to reexperience a variety of feelings from early childhood.",
-        "category": "psychoanalytic"
+        "category": "Psychoanalytic"
     },
     {
         "id": 2,
         "text": "The social determinants of personality are far more powerful than psychosexual determinants.",
-        "category": "adlerian"
+        "category": "Adlerian"
     },
     {
         "id": 3,
         "text": "A therapist should challenge clients with the ways in which they are living an unauthentic life.",
-        "category": "existential"
+        "category": "Existential"
     },
     {
         "id": 4,
         "text": "I like to devise experiments designed to increase clients’ self-awareness of what they are doing and how they are doing it.",
-        "category": "gestalt"
+        "category": "Gestalt"
     },
     {
         "id": 5,
         "text": "It is important to ask clients about their earliest recollections.",
-        "category": "adlerian"
+        "category": "Adlerian"
     },
     {
         "id": 6,
         "text": "It is important to state therapy treatment goals in concrete, specific, and objective terms to best help clients.",
-        "category": "behavioral"
+        "category": "Behavioral"
     },
     {
         "id": 7,
         "text": "Although it is desirable to be loved and accepted by others, it is not necessary.",
-        "category": "cognitive"
+        "category": "Cognitive"
+    },
+    {
+        "id": 8,
+        "text": "Therapists should understand how sexist and oppressive societal beliefs and practices affect women clients in negative ways.",
+        "category": "Feminist"
     },
     {
         "id": 9,
         "text": "The basic problem of most clients is that they are either involved in a present unsatisfying relationship or lack a significant relationship.",
-        "category": "reality"
+        "category": "Reality"
     },
     {
         "id": 10,
         "text": "A good client–therapist relationship is a necessary but not sufficient condition for behavior change to occur.",
-        "category": "behavioral"
+        "category": "Behavioral"
     },
     {
         "id": 11,
         "text": "The conditions that the therapist offers during therapy are far more powerful than the techniques he or she uses.",
-        "category": "person-centered"
+        "category": "Person-Centered"
     },
     {
         "id": 12,
         "text": "The appropriate goals of therapy are social change and individual change.",
-        "category": "feminist"
+        "category": "Feminist"
     },
     {
         "id": 13,
         "text": "Although we all encounter certain circumstances in life, we are not victims of our circumstances. We are what we choose to become.",
-        "category": "existential"
+        "category": "Existential"
     },
     {
         "id": 14,
         "text": "Therapy should focus on the client’s feelings, present awareness, and blocks to awareness.",
-        "category": "gestalt"
+        "category": "Gestalt"
     },
     {
         "id": 15,
         "text": "Cognitions are the major determinants of how we feel and act.",
-        "category": "cognitive"
+        "category": "Cognitive"
     },
     {
         "id": 16,
         "text": "Too much of therapy is problem focused rather than solution focused.",
-        "category": "solutions-focused"
+        "category": "Solutions-Focused"
     },
     {
         "id": 17,
         "text": "A therapist’s congruence or genuineness is one of the most significant conditions for establishing a therapeutic relationship.",
-        "category": "person-centered"
+        "category": "Person-Centered"
     },
     {
         "id": 18,
-        "text": "It is important to know a client’s position in their family of origin so that I can better understand the roles they have adopted in life.",
-        "category": "adlerian"
+        "text": "It is important to know a client’s position in their Family of origin so that I can better understand the roles they have adopted in life.",
+        "category": "Adlerian"
     },
     {
         "id": 19,
         "text": "Instead of talking about feelings and experiences in therapy, I believe that it is more important for clients to relive and reexperience those feelings during the therapy hour.",
-        "category": "gestalt"
+        "category": "Gestalt"
     },
     {
         "id": 20,
-        "text": "When an individual in a family has problems, a therapist might help by examining family communication and relationship problems.",
-        "category": "family"
+        "text": "When an individual in a Family has problems, a therapist might help by examining Family communication and relationship problems.",
+        "category": "Family"
     },
     {
         "id": 21,
         "text": "Clients are ready to terminate therapy when they understand the historical roots of their problems and when they have clarified how their early childhood problems are affecting them in the present.",
-        "category": "psychoanalytic"
+        "category": "Psychoanalytic"
     },
     {
         "id": 22,
         "text": "The major themes of psychotherapy deal with a search for meaning, freedom and responsibility, isolation, alienation, death and its ramifications for living.",
-        "category": "existential"
+        "category": "Existential"
     },
     {
         "id": 23,
         "text": "Each person develops a unique lifestyle, which I will examine during therapy.",
-        "category": "adlerian"
+        "category": "Adlerian"
     },
     {
         "id": 24,
         "text": "Therapists should encourage clients to take responsibility for how they are choosing to be or live in their world.",
-        "category": "existential"
+        "category": "Existential"
     },
     {
         "id": 25,
-        "text": "A therapist helps produce change in clients by restoring healthy family organizational structures.",
-        "category": "family"
+        "text": "A therapist helps produce change in clients by restoring healthy Family organizational structures.",
+        "category": "Family"
     },
     {
         "id": 26,
         "text": "The most fundamental goal of therapy is to create a psychological climate of safety in which clients will feel safe enough to drop their defenses.",
-        "category": "person-centered"
+        "category": "Person-Centered"
     },
     {
         "id": 27,
         "text": "Therapists should pick and choose from different theoretical systems for the purpose of integrating them.",
-        "category": "integrative"
+        "category": "Integrative"
     },
     {
         "id": 28,
         "text": "It is important for therapists to counsel clients with their families.",
-        "category": "family"
+        "category": "Family"
     },
     {
         "id": 29,
         "text": "Working on clients’ weaknesses rarely produces excellence. If one is looking for excellence, one has to focus on clients’ strengths.",
-        "category": "strengths-based"
+        "category": "Strengths-Based"
     },
     {
         "id": 30,
         "text": "Denial, repression, intellectualization, and other defense mechanisms are central to understanding therapy.",
-        "category": "psychoanalytic"
+        "category": "Psychoanalytic"
     },
     {
         "id": 31,
         "text": "It is important to teach clients techniques to help them deal with issues.",
-        "category": "cognitive"
+        "category": "Cognitive"
     },
     {
         "id": 32,
         "text": "There is no one best theory when it comes to therapy. (Integrative)",
-        "category": "integrative"
+        "category": "Integrative"
     },
     {
         "id": 33,
         "text": "I don’t believe that a therapist should be skilled in only one theory of psychotherapy.",
-        "category": "integrative"
+        "category": "Integrative"
     },
     {
         "id": 34,
         "text": "People strive for self-actualization.",
-        "category": "person-centered"
+        "category": "Person-Centered"
     },
     {
         "id": 35,
         "text": "Irrational beliefs are the primary causes of emotional disturbance.",
-        "category": "cognitive"
+        "category": "Cognitive"
     },
     {
         "id": 36,
         "text": "People learn both adaptive and maladaptive behaviors.",
-        "category": "behavioral"
+        "category": "Behavioral"
     },
     {
         "id": 37,
         "text": "Successful living is connected to the degree of social interest that clients display.",
-        "category": "adlerian"
+        "category": "Adlerian"
     },
     {
         "id": 38,
         "text": "The client is the expert on his or her problems rather than the therapist.",
-        "category": "solutions-focused"
+        "category": "Solutions-Focused"
     },
     {
         "id": 39,
         "text": "Human behavior is determined by patterns of reinforcements and punishments in the environment.",
-        "category": "behavioral"
+        "category": "Behavioral"
     },
     {
         "id": 40,
         "text": "Events themselves do not cause emotional disturbances. Instead, it is our evaluation of and beliefs about these events that cause our problems.",
-        "category": "cognitive"
+        "category": "Cognitive"
     },
     {
         "id": 41,
         "text": "It is the client’s responsibility, not the therapist’s, to evaluate their current behavior.",
-        "category": "reality"
+        "category": "Reality"
     },
     {
         "id": 42,
         "text": "All of the following are basic psychological needs: belonging, power, freedom, and fun.",
-        "category": "reality"
+        "category": "Reality"
     },
     {
         "id": 43,
         "text": "Sometimes people choose to be depressed; they engage in depressing behavior.",
-        "category": "reality"
+        "category": "Reality"
     },
     {
         "id": 44,
         "text": "It is important to intentionally include a stage in counseling that helps to instill hope within the client.",
-        "category": "strengths-based"
+        "category": "Strengths-Based"
     },
     {
         "id": 45,
         "text": "An appropriate goal for therapy is to conduct conversations with clients that help them develop new meanings for their feelings and behaviors.",
-        "category": "narrative"
+        "category": "Narrative"
     },
     {
         "id": 46,
         "text": "Clients are sometimes stuck in a pattern of living a problem-saturated story that has not worked for them for some time.",
-        "category": "solutions-focused"
+        "category": "Solutions-Focused"
     },
     {
         "id": 47,
         "text": "A useful counseling strategy is to help a client create a more satisfying life story.",
-        "category": "narrative"
+        "category": "Narrative"
     },
     {
         "id": 48,
         "text": "The therapist should be viewed as only one source of information instead of as the expert.",
-        "category": "solutions-focused"
+        "category": "Solutions-Focused"
     },
     {
         "id": 49,
         "text": "Clients’ stories assume hold over their lives only when there is an audience to appreciate and support such stories.",
-        "category": "narrative"
+        "category": "Narrative"
     },
     {
         "id": 50,
         "text": "Therapy should help clients engage in externalizing conversations.",
-        "category": "narrative"
+        "category": "Narrative"
     },
     {
         "id": 51,
-        "text": "Clients are best understood through assessing the interactions between and among family members.",
-        "category": "family"
+        "text": "Clients are best understood through assessing the interactions between and among Family members.",
+        "category": "Family"
     },
     {
         "id": 52,
         "text": "Gender role analysis is an important therapeutic technique I intend to use.",
-        "category": "feminist"
+        "category": "Feminist"
     },
     {
         "id": 53,
         "text": "Counseling should focus on a client’s strengths rather than on their problems.",
-        "category": "strengths-based"
+        "category": "Strengths-Based"
     },
     {
         "id": 54,
         "text": "Culturally skilled counselors are not limited to onlyone theoretical counseling approach but recognizethat helping strategies may be culture bound.",
-        "category": "multicultural"
+        "category": "Multicultural"
     },
     {
         "id": 55,
         "text": "Emphasizing even one client strength may function to counteract two negative events that took place in his or her day.",
-        "category": "strengths-based"
+        "category": "Strengths-Based"
     },
     {
         "id": 56,
         "text": "It is important for therapists to help clients manage their weaknesses rather than eradicate them.",
-        "category": "strengths-based"
+        "category": "Strengths-Based"
     },
     {
         "id": 57,
         "text": "Change takes place during therapy because the therapist helps the client gain insight into the way he or she relates to others based on childhood experiences.",
-        "category": "psychoanalytic"
+        "category": "Psychoanalytic"
     },
     {
         "id": 58,
         "text": "One of the functions of the therapist is to pay close attention to the client’s body language and unfinished business.",
-        "category": "gestalt"
+        "category": "Gestalt"
     },
     {
         "id": 59,
         "text": "The purpose of therapy is to bring the unconscious to the conscious level.",
-        "category": "psychoanalytic"
+        "category": "Psychoanalytic"
     },
     {
         "id": 60,
         "text": "It is important for me to become knowledgeable about the ways that oppression and social inequities can operate on individual, societal, and cultural levels.",
-        "category": "multicultural"
+        "category": "Multicultural"
     },
     {
         "id": 61,
         "text": "Mutual trust, acceptance, and warmth are important when building the therapeutic relationship.",
-        "category": "person-centered"
+        "category": "Person-Centered"
     },
     {
         "id": 62,
         "text": "We must learn to fulfill our needs and to do so in a way that does not deprive others of their ability to fulfill their needs.",
-        "category": "reality"
+        "category": "Reality"
     },
     {
         "id": 63,
         "text": "One goal of therapy should be to help clients recover meaning in their lives.",
-        "category": "existential"
+        "category": "Existential"
     },
     {
         "id": 64,
         "text": "It is important for me to learn about indigenous models of health and healing and be willing to collaborate with such resources.",
-        "category": "multicultural"
+        "category": "Multicultural"
     },
     {
         "id": 65,
         "text": "I would like to use the miracle question as one of my counseling techniques.",
-        "category": "solutions-focused"
+        "category": "Solutions-Focused"
     },
     {
         "id": 66,
         "text": "Culturally skilled counselors seek to become aware of their own personal culture and recognize that culture may impact the counseling relationship.",
-        "category": "multicultural"
+        "category": "Multicultural"
     },
     {
         "id": 67,
         "text": "Therapy should focus on client awareness, contact with the environment, and integration of these forces.",
-        "category": "gestalt"
+        "category": "Gestalt"
     },
     {
         "id": 68,
         "text": "In therapy, the client controls what behavior he or she wants to change, and the therapist controls how the behavior is changed.",
-        "category": "behavioral"
+        "category": "Behavioral"
     },
     {
         "id": 69,
         "text": "I intend to learn several theories well so that I can meet the needs of a diverse group of clients.",
-        "category": "integrative"
+        "category": "Integrative"
     },
     {
         "id": 70,
         "text": "I feel comfortable using techniques from several different theoretical approaches to counseling.",
-        "category": "integrative"
+        "category": "Integrative"
     },
     {
         "id": 71,
         "text": "I don’t believe in the existence of a construct called personality. Instead, I believe that we construct stories about our lives.",
-        "category": "narrative"
+        "category": "Narrative"
     },
     {
         "id": 72,
         "text": "Many problems that men and women face are caused by their adoption of societal gender roles.",
-        "category": "feminist"
+        "category": "Feminist"
     },
     {
         "id": 73,
         "text": "Change in any one part of the system affects all parts of the system.",
-        "category": "family"
+        "category": "Family"
     },
     {
         "id": 74,
         "text": "Culturally skilled counselors become knowledgeable about the cultures of the clients with whom they work.",
-        "category": "multicultural"
+        "category": "Multicultural"
     },
     {
         "id": 75,
         "text": "Women therapists are often more sensitive to women’s issues than are men therapists.",
-        "category": "feminist"
-    },
-    {
-        "id": 76,
-        "text": "Therapists should understand how sexist and oppressive societal beliefs and practices affect women clients in negative ways.",
-        "category": "feminist"
+        "category": "Feminist"
     }
 ]

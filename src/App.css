@@ -1,8 +1,7 @@
-.content {
-  justify-content: center;
-  display: flex;
+.App {
+ 
 }
 
-.App {
-  background: #e3edfd;
+html, body, #root, #app, #app>div {
+  height: 100%
 }

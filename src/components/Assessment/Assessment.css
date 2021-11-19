@@ -4,6 +4,12 @@
     margin: 24px;
 }
 
+.content {
+  justify-content: center;
+  display: flex;
+  background: #e3edfd;
+}
+
 .submit-button{
     float:right;
 }

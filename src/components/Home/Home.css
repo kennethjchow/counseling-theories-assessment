@@ -1,0 +1,30 @@
+.home-container{
+    height:100%; 
+    position: relative;
+    background: linear-gradient(to top right, #2F2727, #1a82f7);
+}
+
+.home-center-elements {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 100%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align:center;
+    margin-left:48px;
+    margin-right:48px
+}
+
+.home-center-elements h2{
+    font-size: 48px;
+    color: #fff;
+    margin: 10% 0 0;
+}
+
+.home-center-elements p{
+    font-size: 18px;
+    color: #fff;
+    margin: top 24px;
+  }
